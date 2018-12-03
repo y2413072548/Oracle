@@ -31,7 +31,7 @@ order插入数据（重复插入3个不同的数据，日期年份应该分别�
 ![image](https://github.com/y2413072548/Oracle/blob/master/test3/主表插入数据.png)
 
 主表创建序列 SEQ_ID <br>
-![image](https://github.com/y2413072548/Oracle/blob/master/test3/SEQ_ID.png)
+![image](https://github.com/y2413072548/Oracle/blob/master/test3/SEQ_ID .png)
 
 主表触发器tr_IDADD <br>
 ![image](https://github.com/y2413072548/Oracle/blob/master/test3/TR_IDADO.png)
